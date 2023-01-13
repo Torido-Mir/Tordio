@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tordio aka Jimmy Phan.  
+- 👋 Hi, I’m Torido aka Jimmy Phan.  
 - 👀 I’m interested in making robots and fun contraptions. 
 - 🌱 I’m currently learning Python and C++ 
 - 📫 Reach me at: tvphan@uwaterloo.ca 
