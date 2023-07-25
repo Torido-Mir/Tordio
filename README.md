@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Torido aka Jimmy Phan.  
-- 👀 I’m interested in making robots and fun contraptions. 
+- 👀 I’m interested in making robots and fun contraptions
+- ✨ I love reading books and playing lego in my free time
 - 🌱 I’m currently learning Python and C++ 
 - 📫 Reach me at: tvphan@uwaterloo.ca 
 
